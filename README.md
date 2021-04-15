@@ -14,14 +14,14 @@ For instance:
 
 | file name | line number | comment |
 | --- | --- | --- |
-| astronauts.spec.js | 1 | I see that Jest is being used for unit tests. |
+| astronauts.spec.js | 1 | I see that Jest is being used for all unit tests. Well done implementing Jest! |
 
 Also, please remember that you are communicating with a colleague when making these notes.
 
 The second step is to write up answers for the following questions:
-* Please describe your experience providing or receiving code reviews like this.
+* Please describe your experience providing or receiving code reviews like this.  If you've never done a review like this before, that's completely okay - just let us know!
 * Did you run the code locally?
-* Did you feel you were missing any context for this code review? What other info might have helped you understand the context for this feature?
+* Would any other explanation be helpful in understanding the code and what it was meant to accomplish?
 
 ## What is this code supposed to do?
 
@@ -49,3 +49,13 @@ Once assignment is completed, each astronaut should receive a message in the fol
 `Congratulations {astronaut name}. You have been assigned to journey into the heart of the universe on the Spaceship {spaceship name}. Please be prepared to start your journey on { expedition date formatted as month/day/year }.`
 
 Those will be printed out to the console for now.
+
+## If I wanted to run the code locally, how would I do that?
+
+1. Install npm and node.  Here is [an article](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) on how to accomplish that.
+2. Download the files to your computer, either through git or via the "Download Zip" link that you see when you click the Green "Code" button on the [project homepage](https://github.com/lumenlearning/astronauts-js)
+3. Inside the directory where you have the astronauts-js project, run `npm i` to install all dependencies.
+4. To run the program itself, run `npm start`
+5. If you want to run tests, run `npm test`
+
+Feel free to email us if you have any questions!
