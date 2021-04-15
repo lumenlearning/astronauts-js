@@ -4,7 +4,7 @@ Thanks so much for your interest in Lumen Learning!  We appreciate you taking th
 
 There are two steps to completing this review.  Please create an email and send it to james@lumenlearning.com which includes your work on the two steps.
 
-The first step is to look through the code in this repository, especially in `main.js` where all of the major logic is located.  Find note any lines of code you believe either deserve special praise as being very clear or which you believe should be improved in any fashion - either to make the meaning more clear or fix any bugs which you have found.
+The first step is to look through the code in this repository, especially in `main.js` where all of the major logic is located.  Note any lines of code you believe either deserve special praise as being very clear or which you believe should be improved in any fashion - either to make the meaning more clear or fix any bugs which you have found.
 
 Please collect your notes in the form of:
 
